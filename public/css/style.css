@@ -14,7 +14,6 @@
     -webkit-transition: .3s ease all;
     transition: .3s ease all;
 
-    padding: 5% 0; /* Temp: Just spacing. */
 }
 #site-menu {
     width: 300px;
@@ -22,7 +21,7 @@
     position: absolute;
     top: 0;
     left: -300px;
-    background: #428bca;
+    background: #FFCC00;
     padding: 15px;
 }
 #site-wrapper.show-nav #site-canvas {
